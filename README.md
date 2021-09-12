@@ -14,9 +14,9 @@ This resulted in a slightly different district summary results. The _Average Mat
 _District Summary initial results:_
 ![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_old.PNG)
 
-<br>
 
 _District Summary new results:_
+
 ![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_new.PNG)
 
 <br>
@@ -69,7 +69,7 @@ For our final analysis however, we removed these students from the sample to be 
 
 ![alt-text-1](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_old.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_nans.PNG) 
  <br>
- ___Initial Thomas High School Stats (left) vs. NaNs ew Thomas Hight School Stats (right)___
+ ___Initial Thomas High School Stats (left) vs. NaNs Thomas Hight School Stats (right)___
 </div>
 
 
