@@ -11,29 +11,53 @@ This resulted in a slightly different district summary results. The _Average Mat
 
 <br>
 
-image insert dist sum old vs new
+_District Summary initial results:_
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_old.PNG)
+
+<br>
+
+_District Summary new results:_
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_new.PNG)
 
 <br>
 
 ## School Summary
 
-insert top 5 school old vs new
-
 For the school summary, the top 5 & bottom 5 performing schools remain the same. After the adjustment, there was a slight decrese in Thomas High School's statistics however it was not enough to affect its ranking. The top performing school is __Cabrera High School__ with an _Overall Passing Rate_ of __91.33%__ followed by __Thomas High School__ at __90.63%__. See image below for direct comparison of changes for __Thomas High School__.
 
-insert ths old vs new
+_Top 5 Schools initial results:_
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/top5_old.PNG)
+
+_Top 5 Schools new results:_
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/top5_new.PNG)
 
 Here we can conclude that Thomas High School's statistcs have changed by roughly __±1%__ on all Math & Reading scores and percentages.
 
 ## Math & Reading Scores by Grade
 The scores by Grade on both subjects remain the same except for the nullified scores of the 9th Grade students of Thomas High School which is now represented by NaNs.
 
-insert scores by grade old vs new
+<div align="center"> 
+
+![alt-text-1](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_math_old.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_math_new.PNG) 
+ <br>
+ ___Initial Math Scores by Grade (left) vs. New Math Scores by Grade (right)___
+</div>
+
+<div align="center"> 
+
+![alt-text-1](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_reading_old.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_reading_new.PNG) 
+ <br>
+ ___Initial Reading Scores by Grade (left) vs. New Reading Scores by Grade (right)___
+</div>
+
 
 ## Scores by School Spending, School Size & School Type
 Replacing the 9th Grade Students' scores did not change the results on these analyses. See images below for new results.
 
-insert new stats
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/spending_new.PNG)
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/size_new.PNG)
+![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/type_new.PNG)
+
 
 
 # Summary
@@ -41,9 +65,12 @@ Replacing the 9th Grade Students with NaNs resulted in vastly big changes in its
 
 For our final analysis however, we removed these students from the sample to be fair on the school's 10th, 11th & 12th Grade students. See images below for comparisons.
 
-insert ths old vs nans
+<div align="center"> 
 
-
+![alt-text-1](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_old.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_nans.PNG) 
+ <br>
+ ___Initial Thomas High School Stats (left) vs. NaNs ew Thomas Hight School Stats (right)___
+</div>
 
 
 
